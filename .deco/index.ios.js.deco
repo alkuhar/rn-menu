@@ -1,0 +1,149 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 27,
+					"ch": 27
+				},
+				"to": {
+					"line": 27,
+					"ch": 29
+				}
+			},
+			"type": "number",
+			"name": "Padding",
+			"group": "TOGGLE CONTAINER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 28,
+					"ch": 23
+				},
+				"to": {
+					"line": 28,
+					"ch": 33
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": [
+				"horizontal",
+				"vertical"
+			],
+			"type": "string",
+			"name": "Orientation",
+			"group": "TOGGLE CONTAINER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 29,
+					"ch": 19
+				},
+				"to": {
+					"line": 29,
+					"ch": 21
+				}
+			},
+			"type": "number",
+			"name": "Spacing",
+			"group": "TOGGLE CONTAINER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 35,
+					"ch": 21
+				},
+				"to": {
+					"line": 35,
+					"ch": 38
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color",
+			"group": "TOGGLE ITEM"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 36,
+					"ch": 31
+				},
+				"to": {
+					"line": 36,
+					"ch": 49
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor",
+			"group": "TOGGLE ITEM"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 37,
+					"ch": 27
+				},
+				"to": {
+					"line": 37,
+					"ch": 44
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BorderColor",
+			"group": "TOGGLE ITEM"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 38,
+					"ch": 27
+				},
+				"to": {
+					"line": 38,
+					"ch": 48
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "ActiveColor",
+			"group": "TOGGLE ITEM"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 39,
+					"ch": 37
+				},
+				"to": {
+					"line": 39,
+					"ch": 54
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "ActiveBackgroundColor",
+			"group": "TOGGLE ITEM"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 40,
+					"ch": 28
+				},
+				"to": {
+					"line": 40,
+					"ch": 29
+				}
+			},
+			"type": "number",
+			"name": "BorderRadius",
+			"group": "TOGGLE ITEM"
+		}
+	]
+}
